@@ -2,7 +2,7 @@
 
  手势识别带触摸传感器	(测试)
 
- ![featured](./featured.png)
+ ![featured](./arduinoC/_images/featured.png)
 
 # 用户库教程
  
