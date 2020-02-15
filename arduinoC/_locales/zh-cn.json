@@ -1,0 +1,57 @@
+{
+    "DFRobot_Gesture_Touch.Gesture_TouchInitSsr|block": "手势传感器 初始化AA ：[SSR] 引脚RX:[RX]引脚TX:[TX]",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitSr|block": "手势传感器 初始化AA ：[SR] 引脚RX: [SRX] 引脚TX: [STX]",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitRead|block": "手势 读数据",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitRead1|block": "手势数据？[RSLT]",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitDST|block": "设置距离[DST]",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitABCD|block": "手势设置模式[AB]功能[CD]",
+    "DFRobot_Gesture_Touch.Gesture_TouchInitSleep|block": "手势设置休眠时间[SLEEP]",
+
+
+    "DFRobot_Gesture_Touch.SSR.softwareSerial1|menu": "软串口1",
+    "DFRobot_Gesture_Touch.SSR.softwareSerial2|menu": "软串口2",
+
+    "DFRobot_Gesture_Touch.SR.Serial|menu": "硬串口",
+    "DFRobot_Gesture_Touch.SR.Serial1|menu": "硬串口1",
+    "DFRobot_Gesture_Touch.SR.Serial2|menu": "硬串口2",
+
+
+    "DFRobot_Gesture_Touch.RSLT.BACK|menu": "向后",
+    "DFRobot_Gesture_Touch.RSLT.FORWARD|menu": "向前",
+    "DFRobot_Gesture_Touch.RSLT.RIGHT|menu": "向左",
+    "DFRobot_Gesture_Touch.RSLT.LEFT|menu": "向右",
+    "DFRobot_Gesture_Touch.RSLT.PULLUP|menu": "上拉",
+    "DFRobot_Gesture_Touch.RSLT.PULLDOWN|menu": "下压",
+    "DFRobot_Gesture_Touch.RSLT.PULLREMOVE|menu": "上拉下压后手松开中的任意一种手势",
+    "DFRobot_Gesture_Touch.RSLT.TOUCH1|menu": "触摸1",
+    "DFRobot_Gesture_Touch.RSLT.TOUCH2|menu": "触摸2",
+    "DFRobot_Gesture_Touch.RSLT.TOUCH3|menu": "触摸3",
+    "DFRobot_Gesture_Touch.RSLT.TOUCH4|menu": "触摸4",
+    "DFRobot_Gesture_Touch.RSLT.TOUCH5|menu": "触摸5",
+
+
+    "DFRobot_Gesture_Touch.AB.ENABLE|menu": "使能",
+    "DFRobot_Gesture_Touch.AB.DISABLE|menu": "关闭",
+
+    "DFRobot_Gesture_Touch.CD.ALL|menu": "全部",
+    "DFRobot_Gesture_Touch.CD.BACK|menu": "向后",
+    "DFRobot_Gesture_Touch.CD.FORWARD|menu": "向前",
+    "DFRobot_Gesture_Touch.CD.RIGHT|menu": "向左",
+    "DFRobot_Gesture_Touch.CD.LEFT|menu": "向右",
+    "DFRobot_Gesture_Touch.CD.PULLUP|menu": "上拉",
+    "DFRobot_Gesture_Touch.CD.PULLDOWN|menu": "下压",
+    "DFRobot_Gesture_Touch.CD.PULLREMOVE|menu": "上拉下压后手松开中的任意一种手势",
+    "DFRobot_Gesture_Touch.CD.TOUCH1|menu": "触摸1",
+    "DFRobot_Gesture_Touch.CD.TOUCH2|menu": "触摸2",
+    "DFRobot_Gesture_Touch.CD.TOUCH3|menu": "触摸3",
+    "DFRobot_Gesture_Touch.CD.TOUCH4|menu": "触摸4",
+    "DFRobot_Gesture_Touch.CD.TOUCH5|menu": "触摸5",
+
+    "DFRobot_Gesture_Touch.CD.FORWARD1|menu": "前后",
+    "DFRobot_Gesture_Touch.CD.LEFT2|menu": "左右",
+    "DFRobot_Gesture_Touch.CD.PULLUP3|menu": "上拉和下压",
+    "DFRobot_Gesture_Touch.CD.TOUCH12|menu": "触摸1和触摸2"
+     
+
+    
+}

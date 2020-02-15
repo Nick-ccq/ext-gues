@@ -1,0 +1,81 @@
+{
+	"SSR": {
+		"menu": [["softwareSerial1", "softwareSerial1"], ["softwareSerial2", "softwareSerial2"]],
+		"default_Gesture_TouchInitSsr": "softwareSerial1"
+	},
+	"RX": {
+		"menu": [["P1", "1"], ["P2", "2"], ["P3", "3"]],
+		"default_Gesture_TouchInitSsr": "1"
+	},
+	"TX": {                                                                                                                                                                                    
+		"menu": [["P1", "1"], ["P2", "2"], ["P3", "3"]],
+		"default_Gesture_TouchInitSsr": "2"
+	},
+
+	"SR": {
+		"menu": [["Serial1", "Serial1"],["Serial2", "Serial2"]],
+		"default_Gesture_TouchInitSr": "Serial1"
+	},
+	"SRX": {
+		"menu": [["P0", "0"], ["P1", "1"], ["P2", "2"]],
+		"default_Gesture_TouchInitSr": "0"
+	},
+	"STX": {                                                                                                                                                                                    
+		"menu": [["P1", "1"], ["P2", "2"], ["P3", "3"]],
+		"default_Gesture_TouchInitSr": "1"
+	},
+	"RSLT": {                                                                                                                                                                                    
+		"menu": 
+		[["BACK", "DFGT_EVT_BACK"],
+		["FORWARD", "DFGT_EVT_FORWARD"],
+		["RIGHT", "DFGT_EVT_RIGHT"],
+		["LEFT", "DFGT_EVT_LEFT"],
+		["PULLUP", "DFGT_EVT_PULLUP"],
+		["PULLDOWN", "DFGT_EVT_PULLDOWN"],
+		["PULLREMOVE", "DFGT_EVT_PULLREMOVE"],
+		["TOUCH1", "DFGT_EVT_TOUCH1"],
+		["TOUCH2", "DFGT_EVT_TOUCH2"],
+		["TOUCH3", "DFGT_EVT_TOUCH3"],
+		["TOUCH4", "DFGT_EVT_TOUCH4"],
+		["TOUCH5", "DFGT_EVT_TOUCH5"]],
+		"default_Gesture_TouchInitRead1": "DFGT_EVT_FORWARD"
+	},
+	"AB": {                                                                                                                                                                                    
+		"menu": 
+		[["ENABLE", "enableFunction"],
+		["DISABLE", "disableFunction"]],
+		
+		"default_Gesture_TouchInitABCD": "ENABLE"
+	},
+
+	"CD": {                                                                                                                                                                                    
+		"menu": 
+		[["ALL", "DFGT_FUN_ALL"],
+		["BACK", "DFGT_EVT_BACK"],
+		["FORWARD", "DFGT_EVT_FORWARD"],
+		["RIGHT", "DFGT_EVT_RIGHT"],
+		["LEFT", "DFGT_EVT_LEFT"],
+		["PULLUP", "DFGT_EVT_PULLUP"],
+		["PULLDOWN", "DFGT_EVT_PULLDOWN"],
+		["PULLREMOVE", "DFGT_EVT_PULLREMOVE"],
+		["TOUCH1", "DFGT_EVT_TOUCH1"],
+		["TOUCH2", "DFGT_EVT_TOUCH2"],
+		["TOUCH3", "DFGT_EVT_TOUCH3"],
+		["TOUCH4", "DFGT_EVT_TOUCH4"],
+		["TOUCH5", "DFGT_EVT_TOUCH5"],
+
+		
+		["FORWARD1", "DFGT_EVT_FORWARD | DFGT_EVT_BACK"],
+		["LEFT2", "DFGT_EVT_LEFT | DFGT_EVT_RIGHT"],
+		["PULLUP3", "DFGT_EVT_PULLUP | DFGT_EVT_PULLDOWN"],
+		["TOUCH12 ", "DFGT_EVT_TOUCH1 | DFGT_EVT_TOUCH2"]
+		
+
+	],
+		"default_Gesture_TouchInitABCD": "DFGT_FUN_ALL"
+	}
+
+
+
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

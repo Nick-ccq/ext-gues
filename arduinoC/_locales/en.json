@@ -1,0 +1,7 @@
+{
+    "MpythonBT.MypthonBTInit|block": "MpythonBT init name [NAME]",
+    "MpythonBT.MypthonBTAvailable|block": "MpythonBT available",
+    "MpythonBT.MypthonBTRead|block": "MpythonBT read",
+    "MpythonBT.MypthonBTWrite|block": "MpythonBT write [STR]"
+    
+}
