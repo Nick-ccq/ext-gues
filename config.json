@@ -1,27 +1,40 @@
 {
-	"name": {
-		"zh-cn": "手势触摸传感器",
-		"en": "DFRobot_Gesture_Touch"
-	},
-	"description": {
-		"zh-cn": "7种手势触摸传感器",
-		"en": "DFRobot_Gesture_Touch"
-	},
-	"auther": "Nick",
-	"email": "619104402@qq.com",
-	"license": "MIT",
-	
-	"isBoard": false,
-	"id": "DFRobot_Gesture_Touch",
-	"platform": ["win"],
-	"asset": {
-		"arduinoC": {
-			"dir": "arduinoC/",
-			"version": "0.0.1",
-			"board": [ "arduino","esp32","microbit"],
-			"main": "main.ts"
-			
-
-		}
-	}
+  "name": {
+    "zh-cn": "手势触摸传感器",
+    "en": "DFRobot_Gesture_Touch"
+  },
+  "description": {
+    "zh-cn": "7种手势触摸传感器",
+    "en": "DFRobot_Gesture_Touch"
+  },
+  "auther": "Nick",
+  "email": "619104402@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "DFRobot_Gesture_Touch",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "arduino",
+        "esp32",
+        "microbit"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/en.json",
+        "_locales/zh-cn.json",
+        "_menus/arduino.json",
+        "_menus/esp32.json",
+        "_menus/microbit.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
+    }
+  }
 }
